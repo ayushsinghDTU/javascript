@@ -20,3 +20,18 @@ let booleanIsLogIn = Boolean(isLoggedIn);
 // "ayush" => true;
 // String for string conversion
 
+// ********Operations*****
+
+let value = 2;
+let negvalue = -value;
+//console.log(negvalue);
+
+//console.log("1" +   2);
+//console.log( 1  +  "2");
+//console.log( 1  +   2 + "2"); // 1st is integer so it convert in int 1"2 => 3  then in string =>  32  ;
+
+
+
+
+
+
